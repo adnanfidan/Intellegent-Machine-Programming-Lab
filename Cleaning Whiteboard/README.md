@@ -9,6 +9,3 @@ The robot arm, equipped with a gripper, applies impedance control to detect forc
 
 ## Trajectory Planning: 
 The robot follows a circular path to "draw" a circle on the board for the erasing motion. Upon reaching the board, it detects contact through force feedback and then traces its way back to the starting position, maintaining the same path to ensure accuracy and consistency in movements.
-
-## Result Video:
-[![Watch the video](media/cleaning_whiteboard_tasks.png)](media/Cleaning_whiteboard_tasks.mp4)
