@@ -12,4 +12,5 @@ The robot follows a circular path to "draw" a circle on the board for the erasin
 
 ## Result Videos
 
-![Cleaning_whiteboard](media/Cleaning_whiteboard_taks.mp4)
+<video src="media/Cleaning_whiteboard_taks.mp4" controls="controls" style="max-width: 100%;">
+
