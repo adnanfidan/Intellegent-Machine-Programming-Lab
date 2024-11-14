@@ -1,0 +1,25 @@
+ Program
+   Robot Program
+     pre_start
+       Set
+       Gripper Close (1)
+       MoveJ
+         home
+     enter_wb
+       MoveJ
+         entry
+     appr_wb
+       MoveJ
+         approach
+     draw_on_wb
+       MoveL
+         touchpoint
+       MoveP
+         touchpoint
+         CircleMove
+           ViaPoint_1
+           EndPoint_1
+         CircleMove
+           ViaPoint_2
+           EndPoint_2
+     'return_to_start'
