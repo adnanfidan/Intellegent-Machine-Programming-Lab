@@ -4,7 +4,7 @@
 
 This assignment challenges you to draw a circle on a whiteboard with a Universal Robots UR10e robot with a Robotiq HAND-E electric two-finger pinch gripper.
 
-- **Robot**: [Videos](media/UR10e_Robot.mp4)
+- **[Robot Video](media/UR10e_Robot.mp4)**
 
 # Drawing a Circle with teach pendant and RoboDK
 1) define home point in base frame
@@ -17,7 +17,7 @@ This assignment challenges you to draw a circle on a whiteboard with a Universal
 8) draw semi-circle with unconstrained circlemovement function in whiteboard frame
 9) repeat steps 5 to 8 for the second half circle with appropriate new points
 
-- **Simulation**: [Videos](media/RoboDK_Simulation.webm)
+- **[Simulation Video](media/RoboDK_Simulation.webm)**
 
 ## Tools
 - [Universal Robots Teach Pendant Simulator](https://github.com/UniversalRobots/RTDE_Python_Client_Library)
